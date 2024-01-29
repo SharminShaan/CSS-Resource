@@ -1,0 +1,36 @@
+body{
+    background: url(bg.jpg);
+    background-attachment: fixed;
+}
+div{
+    background-color: rgba(240, 128, 128, 0.7);
+    background-image: url(css.png);
+    background-size: 150px 150px;
+   /* background-repeat: repeat-x;
+    background-repeat: repeat-y;*/
+    background-repeat: no-repeat;
+
+    background-position: right 20px;
+
+    /* shorthand */
+    background: #f78fb3 url(css.png) 
+    no-repeat center;
+}
+
+
+/*h1{
+    color: aqua;
+    color: #000000;
+    color: #0000ff;
+    color: #00ff00;
+    color: #ff0000;
+    color: #ffffff;
+    color: #ff5733;
+    color: #2B4965;
+    color: #cb08945d;
+    color: rgb(255, 255, 255);
+    color: rgb(0, 255, 0);
+    color: rgb(0, 0, 255);
+    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 0, 0.5);
+}*/
